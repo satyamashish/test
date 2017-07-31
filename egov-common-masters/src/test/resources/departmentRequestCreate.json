@@ -1,0 +1,24 @@
+{
+  "RequestInfo":{
+    "api_id":"org.egov.collection",
+    "ver":"1.0",
+    "ts":"16-03-2017 12:09:14",
+    "action": null,
+    "did":"4354648646",
+    "key":"xyz",
+    "msg_id":"654654",
+    "requester_id":"76",
+    "authToken": "9e5d1f82-ec7d-44c2-9bcf-123a8705ff2a",
+    "userInfo":
+    {
+      "id":76
+    }
+  },
+  "Department":
+  {
+    "name": "Health1",
+    "code": "HLT1",
+    "active": true,
+    "tenantId": "default"
+  }
+}
