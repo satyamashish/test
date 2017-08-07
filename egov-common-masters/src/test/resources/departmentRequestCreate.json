@@ -1,24 +1,25 @@
 {
   "RequestInfo":{
-    "api_id":"org.egov.collection",
+    "apiId":"org.egov.commons",
     "ver":"1.0",
-    "ts":"16-03-2017 12:09:14",
-    "action": null,
+    "action":"POST",
     "did":"4354648646",
     "key":"xyz",
-    "msg_id":"654654",
-    "requester_id":"76",
-    "authToken": "9e5d1f82-ec7d-44c2-9bcf-123a8705ff2a",
+    "msgId":"654654",
+    "authToken": "345678f",
     "userInfo":
     {
-      "id":76
+      "id":1
     }
   },
   "Department":
   {
-    "name": "Health1",
-    "code": "HLT1",
+    "id":1,
+    "name": "Health",
+    "code": "HLT",
     "active": true,
-    "tenantId": "default"
+    "tenantId": "default",
+    "createdBy":1,
+    "lastModifiedBy":1
   }
 }

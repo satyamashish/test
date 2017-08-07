@@ -1,19 +1,16 @@
 {
   "RequestInfo":{
-    "apiId":"org.egov.collection",
+    "api_id":"org.egov.pgr",
     "ver":"1.0",
-    "action":"POST",
+    "ts":"16-03-2017 12:09:14",
+    "action": null,
     "did":"4354648646",
     "key":"xyz",
-    "msgId":"654654",
-    "authToken":"345678f",
-    "userInfo":
-    {
-      "id":1,
-      "name":"ram",
-      "mobileNumber":"73878921",
-      "emailId":"ram@gmail.com"
-    }
+    "msg_id":"654654",
+    "requester_id":"61",
+    "authToken": "9e5d1f82-ec7d-44c2-9bcf-123a8705ff2a"
+  },
+  "departmentGetRequest":{
 
   }
 }

@@ -1,6 +1,6 @@
 {
   "ResponseInfo":{
-    "apiId" : "org.egov.collection",
+    "apiId" : "org.egov.commons",
     "ver" : "1.0",
     "resMsgId":"uief87324",
     "msgId":"654654",
@@ -9,8 +9,8 @@
   "Department":[
     {
       "id":1,
-      "name":"Health1",
-      "code":"HLT1",
+      "name":"Health",
+      "code":"HLT",
       "active":true,
       "tenantId":"default"
     }
